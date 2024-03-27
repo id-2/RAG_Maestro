@@ -88,7 +88,7 @@ requests==2.31.0
 requests-file==1.5.1
 rich==13.7.0
 rpds-py==0.16.2
-Scrapy==2.11.0
+Scrapy==2.11.1
 selenium==4.16.0
 service-identity==23.1.0
 setuptools==69.0.3
